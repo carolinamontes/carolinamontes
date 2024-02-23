@@ -8,7 +8,10 @@
 
 - 🌱 Estoy estudiando **HTML, CSS & JavaScript**
 
-- 👨‍💻 Si quieres puedes ver mi portfolio [**www.carolinamontes.es**](www.carolinamontes.es)
+- 👨‍💻 Si quieres puedes ver mi portfolio <h3 align="left">Connect with me:</h3><p align="left">
+  <a href="https://www.carolinamontes.es/="blank">
+  </a>
+</p>
 
 - 📫 Puedes contactarme en **carolmonmar@gmail.com**
 
