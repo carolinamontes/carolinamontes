@@ -2,7 +2,7 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Carol</h1>
-<h3 align="center">SOBRE MI:</h3>
+<h3 align="center">conóceme un poquito:</h3>
 
 - 🔭 Actualmente trabajo como **UX/UI Designer para Orbital Critical Systems**
 
