@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, Soy Carol</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
-- 🔭 Actualmnete trabajo como **UX/UI Designer para Orbital Critical Systems**
+- 🔭 Actualmente trabajo como **UX/UI Designer para Orbital Critical Systems**
 
 - 🌱 Estoy estudiando **HTML, CSS & JavaScript**
 
