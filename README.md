@@ -8,7 +8,7 @@
 
 - 🌱 Estoy estudiando **HTML, CSS & JavaScript**
 
-- 👨‍💻 Si quieres puedes ver mi portfolio [**www.carolinamontes.es**](https://carolinamontes.es/)
+- 👨‍💻 Si quieres puedes ver mi figma @uicaroldesigns 
 
 - 📫 Puedes contactarme en **carolmonmar@gmail.com**
 
